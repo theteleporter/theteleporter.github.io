@@ -2,8 +2,7 @@
 
 ##  It's The Teleporter 𖠋
 
-
-[![The Teleporter's Github Stats](https://github-readme-stats.vercel.app/api?&username=theteleporter&repo=github-readme-stats&show_icons=true&theme=neon)](https://github.com/theteleporter/github-readme-stats)
+[![The Teleporter's Github Stats](https://github-readme-stats.vercel.app/api?&username=theteleporter&repo=github-readme-stats&show_icons=true&theme=neon&layout=pie)](https://github.com/theteleporter/github-readme-stats)
 
 Currently am working on a my [Portfolio](https://www.kelvinomondi.tech).
 
@@ -17,3 +16,7 @@ Find me on:
 ## [Instagram](https://instagram.com/theteleporter_)
 ## [LinkedIn](https://linkedin.com/in/theteleporter)
 Visit my website 🌐 at [The Teleporter](https://www.kelvinomondi.tech).
+
+
+## General Stats
+[![The Teleporter's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/theteleporter?cardType=octocat&theme=dark&preferLogin=false&Background=000000&Text=E50914&Title=1C00DD&Border=783B07A4&Ring=C30B93)](https://www.kelvinomondi.tech)
