@@ -3,7 +3,7 @@
 ##  It's The Teleporter 𖠋
 
 
-[![The Teleporter's Github Stats](https://github-readme-stats.vercel.app/api?username=theteleporter&show_icons=true&theme=dracula)](https://github.com/theteleporter/github-readme-stats)
+[![The Teleporter's Github Stats](https://github-readme-stats.vercel.app/api?&username=theteleporter&repo=github-readme-stats&show_icons=true&theme=neon)](https://github.com/theteleporter/github-readme-stats)
 
 Currently am working on a my [Portfolio](https://www.kelvinomondi.tech).
 
