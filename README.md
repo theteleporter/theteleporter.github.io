@@ -57,4 +57,4 @@ Hi there! I'm The Teleporter, a passionate software engineer specializing in web
 * **Next Auth:** Proficient in using Next Auth for authentication and authorization in Next.js applications.
 
 
-[![The Teleporter's Github Stats](https://github-readme-stats.vercel.app/api?&user# The Teleporter)
+ [![The Teleporter's Github Stats](https://github-readme-stats.vercel.app/api?&username=theteleporter&repo=github-readme-stats&show_icons=true&theme=neon&layout=pie)](https://github.com/theteleporter/github-readme-stats)
